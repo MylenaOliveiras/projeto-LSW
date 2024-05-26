@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carrinho de Compras</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      * {
+        font-family: "M PLUS Rounded 1c", sans-serif;
+      }
+      ::-webkit-scrollbar {
+        width: 12px;
+        height: 12px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #f1f1f1;
+        border-radius: 10px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #666465;
+        border-radius: 10px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #ff6633;
+      }
+    </style>
+  </head>
+  <body>
+    <nav
+      class="h-10 w-full bg-[#ff6633] flex items-center justify-center text-white sticky top-0 z-20"
+    >
+      <ul class="flex gap-4">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="sobre.html">Sobre nós</a></li>
+        <li><a href="#">Atendimento</a></li>
+      </ul>
+    </nav>
+    <header
+      class="flex justify-between px-20 py-2 items-center sticky top-10 z-20 bg-white drop-shadow-lg"
+    >
+      <div class="flex gap-6 items-center">
+        <img
+          src="https://blog.atacadao.com.br/wp-content/uploads/2021/08/atacadao-logo.png"
+          class="w-32"
+        />
+      </div>
+      <div class="flex max-md:hidden">
+        <input
+          class="h-10 border-[#ff6633] border-2 px-4 rounded-l-lg border-r-0"
+          type="text"
+          id="search"
+          placeholder="Pesquisar"
+        />
+        <div>
+          <button
+            class="h-10 bg-[#ff6633] px-4 rounded-r-lg border-2 border-[#ff6633] border-l-0"
+            id="searchBtn"
+          >
+            <img src="icons/search.svg" class="w-6" />
+          </button>
+        </div>
+      </div>
+      <div class="flex gap-2 text-sm max-md:hidden">
+        <img src="icons/user.svg" class="w-8" />
+        <div class="flex flex-col">
+          <a href="#">Bem-vindo</a>
+          <a href="#">Entre ou cadastre</a>
+        </div>
+      </div>
+      <a href="carrinho.html">
+        <div class="relative">
+          <div
+            class="rounded-full w-5 h-5 bg-[#009933] absolute right-0 top-0 text-sm text-white flex items-center justify-center"
+          >
+            <span id="cart-item-count">0</span>
+          </div>
+          <img
+            src="icons/cart.svg"
+            alt="Carrinho de Compras"
+            id="cart-button"
+            class="w-10 h-10 cursor-pointer"
+          />
+        </div>
+      </a>
+    </header>
+    <main class="px-20">
+      <section class="">
+        <img
+          src="https://atacadaobr.vtexassets.com/assets/vtex.file-manager-graphql/images/cb92dc18-63ec-4e50-8a10-63e150372a65___1aca663e0c96f0fdf9812981e864a9b0.png"
+        />
+      </section>
+      <nav
+        class="flex justify-center gap-8 py-4 bg-gray-200 font-bold sticky top-24 z-20 drop-shadow-lg mb-20"
+      >
+        <a class="hover:text-[#ff6633]" href="#Bebidas">Bebidas</a>
+        <a class="hover:text-[#ff6633]" href="#Bomboniere">Bomboniere</a>
+        <a class="hover:text-[#ff6633]" href="#Mercearia">Mercearia</a>
+        <a class="hover:text-[#ff6633]" href="#Grãos">Grãos</a>
+        <a class="hover:text-[#ff6633]" href="#Limpeza">Limpeza</a>
+        <a class="hover:text-[#ff6633]" href="#Higiene">Higiene</a>
+        <a class="hover:text-[#ff6633]" href="#Padaria">Padaria</a>
+      </nav>
+      <section></section>
+      <div id="product-list"></div>
+      <div>
+        <button
+          class="bg-[#ff6633] text-white rounded-full mt-4 fixed bottom-6 right-10 hidden p-px"
+          id="scrollToTopBtn"
+        >
+          <img src="icons/up.svg" class="w-10" />
+        </button>
+      </div>
+    </main>
+  </body>
+</html>
+<script type="module" src="app.js"></script>
+<script>
+  const btnToTop = document.getElementById("scrollToTopBtn");
+
+  window.onscroll = function () {
+    scrollFunction();
+  };
+
+  //Funções
+  function scrollFunction() {
+    if (document.documentElement.scrollTop > 20) {
+      btnToTop.classList.remove("hidden");
+    } else {
+      btnToTop.classList.add("hidden");
+    }
+  }
+
+  btnToTop.addEventListener("click", function () {
+    document.documentElement.scrollBy({
+      top: -document.documentElement.scrollTop,
+      behavior: "smooth",
+    });
+  });
+
+  const search = document.getElementById("search");
+
+  search.addEventListener("keyup", function (event) {
+    if (event.key === "Enter") {
+    }
+  });
+</script>

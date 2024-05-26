@@ -1,0 +1,1986 @@
+[
+  {
+    "categoria": "Bebidas",
+    "id": 1,
+    "nome": "Refrigerante de Cola",
+    "descricao": "Refrigerante sabor cola, 2L",
+    "preco": 5.99,
+    "imagem_url": "https://obahortifruti.vtexassets.com/arquivos/ids/5188035-800-450?v=638329593866800000&width=800&height=450&aspect=true"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 2,
+    "nome": "Suco de Laranja",
+    "descricao": "Suco natural de laranja, 2L",
+    "preco": 3.49,
+    "imagem_url": "https://naturalone.vteximg.com.br/arquivos/ids/157673/SUCO_DE_LARANJA_INTEGRAL_2L_REFRIGERADO_GARRAFA_RECICLAVEL_-_NATURAL_ONE-01.jpg?v=638210558436300000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 3,
+    "nome": "Cerveja Heineken",
+    "descricao": "Cerveja Heineken, 600ml",
+    "preco": 2.99,
+    "imagem_url": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/shoeboxs/catalog/produtos/base-importada-2/78905498.jpg"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 4,
+    "nome": "Vinho Tinto",
+    "descricao": "Vinho Pérgola Tinto suave Garrafa com 750ml",
+    "preco": 15.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/284056/g.jpg?v=638466929627500000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 5,
+    "nome": "Água Mineral",
+    "descricao": "Água mineral sem gás, garrafa com 510ml",
+    "preco": 1.29,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268824/g.jpg?v=638379667523400000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 36,
+    "nome": "Refrigerante Sprite",
+    "descricao": "Refrigerante sabor Limão, 2L",
+    "preco": 7.79,
+    "imagem_url": "https://superpao.vtexassets.com/unsafe/fit-in/720x720/center/middle/https%3A%2F%2Fsuperpao.vtexassets.com%2Farquivos%2Fids%2F428535%2FRefrigerante-Sprite-Original-Garrafa-Pet-Sprite-2L.jpg%3Fv%3D638481781700730000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 37,
+    "nome": "Energético Red Bull",
+    "descricao": "Energético Red Bull Tradicional Lata com 250ml",
+    "preco": 8.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/273005/m.jpg?v=638424587449770000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 38,
+    "nome": "Energético Red Bull Figo e Maçã Lata com 250ml",
+    "descricao": "Energético Red Bull Figo e Maçã Lata com 250ml",
+    "preco": 5.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/273053/m.jpg?v=638424587963170000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 39,
+    "nome": "Refrigerante Coca-Cola Sem açúcar Pet com 200ml",
+    "descricao": "Refrigerante Coca-Cola Sem açúcar Pet com 200ml",
+    "preco": 1.69,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/242527/g.jpg?v=638353863714430000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 40,
+    "nome": "Refrigerante Guaraná Antarctica Zero Lata com 350ml",
+    "descricao": "Refrigerante Guaraná Antarctica Zero Lata com 350ml",
+    "preco": 2.79,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/273604/p.jpg?v=638432363759200000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 41,
+    "nome": "Vinho Sangue de Boi Tinto Suave Garrafão com 4L",
+    "descricao": "Vinho Sangue de Boi Tinto Suave Garrafão com 4L",
+    "preco": 59.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/230269/g.jpg?v=638353728845630000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 42,
+    "nome": "Vinho Salton Lunae Rosé Garrafa com 750ml",
+    "descricao": "Vinho Salton Lunae Rosé Garrafa com 750ml",
+    "preco": 18.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/293521/g.jpg?v=638477292727600000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 43,
+    "nome": "Vinho Salton Lunae Frisante Branco Garrafa com 750ml",
+    "descricao": "Vinho Salton Lunae Frisante Branco Garrafa com 750ml",
+    "preco": 18.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/293520/g.jpg?v=638477292721000000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 44,
+    "nome": "Vinho Aurora Colheita Tardia Malvasia suave Garrafa com 500ml",
+    "descricao": "Vinho Aurora Colheita Tardia Malvasia suave Garrafa com 500ml",
+    "preco": 25.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/283816/m.jpg?v=638466927363530000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 45,
+    "nome": "Vinho Aurora Merlot Garrafa com 750ml",
+    "descricao": "Vinho Aurora Merlot Garrafa com 750ml",
+    "preco": 33.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/283635/g.jpg?v=638466925693970000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 46,
+    "nome": "Suco Natural One Uva e maçã Pet com 2L",
+    "descricao": "Suco Natural One Uva e maçã Pet com 2L",
+    "preco": 19.1,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/248067/g.jpg?v=638353924309730000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 47,
+    "nome": "Suco Natural One Maçã Pet com 1,5L",
+    "descricao": "Suco Natural One Maçã Pet com 1,5L",
+    "preco": 15.79,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/284035/g.jpg?v=638466929436730000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 48,
+    "nome": "Suco Néctar Camp Caju TP com 1L",
+    "descricao": "Suco Néctar Camp Caju TP com 1L",
+    "preco": 4.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/281462/p.jpg?v=638465202148000000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 49,
+    "nome": "Licor Whisky Jack Daniel's Fire Garrafa com 1L",
+    "descricao": "Licor Whisky Jack Daniel's Fire Garrafa com 1L",
+    "preco": 155.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/282566/m.jpg?v=638466061875470000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 50,
+    "nome": "Licor Whisky Jack Daniel's Honey Garrafa com 1L",
+    "descricao": "Licor Whisky Jack Daniel's Honey Garrafa com 1L",
+    "preco": 155.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/282567/g.jpg?v=638466061882330000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 51,
+    "nome": "Whisky Jack Daniel's Garrafa com 1L",
+    "descricao": "Whisky Jack Daniel's Garrafa com 1L",
+    "preco": 154.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/282568/m.jpg?v=638466061892500000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 52,
+    "nome": "Bala Arcor 7 Belo Framboesa Pacote com 500g",
+    "descricao": "Bala Arcor 7 Belo Framboesa Pacote com 500g",
+    "preco": 8.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/298319/g.jpg?v=638508853899530000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 53,
+    "nome": "Confeito M&M's Chocolate Pacote com 1kg",
+    "descricao": "Confeito M&M's Chocolate Pacote com 1kg",
+    "preco": 64.0,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/299157/g.jpg?v=638515307282030000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 54,
+    "nome": "Confeito M&M's Amendoim Pacote com 148g",
+    "descricao": "Confeito M&M's Amendoim Pacote com 148g",
+    "preco": 10.79,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/277104/p.jpg?v=638447052313670000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 55,
+    "nome": "Confeito M&M's Crispy Pacote com 120g",
+    "descricao": "Confeito M&M's Crispy Pacote com 120g",
+    "preco": 10.79,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/277122/g.jpg?v=638447052484100000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 56,
+    "nome": "Cereal Power Ball Mavalério Mini Chocolate Pacote com 500g",
+    "descricao": "Cereal Power Ball Mavalério Mini Chocolate Pacote com 500g",
+    "preco": 19.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/279966/g.jpg?v=638464331287830000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 57,
+    "nome": "Confeito Bib's Amendoim Pacote com 140g",
+    "descricao": "Confeito Bib's Amendoim Pacote com 140g",
+    "preco": 8.0,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/295621/m.jpg?v=638483340632700000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 58,
+    "nome": "Confeito Bib's Ao Leite Pacote com 120g",
+    "descricao": "Confeito Bib's Ao Leite Pacote com 120g",
+    "preco": 8.0,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/295622/p.jpg?v=638483340643070000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 59,
+    "nome": "Bala de Gelatina Fini Minhocas Pacote com 90g",
+    "descricao": "Bala de Gelatina Fini Minhocas Pacote com 90g",
+    "preco": 4.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/240797/g.jpg?v=638353844804830000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 60,
+    "nome": "Bala de Gelatina Fini Ursinhos Pacote com 90g",
+    "descricao": "Bala de Gelatina Fini Ursinhos Pacote com 90g",
+    "preco": 4.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/242816/g.jpg?v=638353866838900000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 61,
+    "nome": "Bala de Gelatina Fini Dentadura Pacote com 90g",
+    "descricao": "Bala de Gelatina Fini Dentadura Pacote com 90g",
+    "preco": 4.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/231130/g.jpg?v=638353738284770000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 62,
+    "nome": "Bala de Gelatina Fini Amoras Pacote com 90g",
+    "descricao": "Bala de Gelatina Fini Amoras Pacote com 90g",
+    "preco": 4.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/242817/g.jpg?v=638353866850070000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 63,
+    "nome": "Drops Mentos Fruit Pacote com 112,5g",
+    "descricao": "Drops Mentos Fruit Pacote com 112,5g",
+    "preco": 5.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/276559/m.jpg?v=638442731968770000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 64,
+    "nome": "Drops Mentos Mint Pacote com 112,5g",
+    "descricao": "Drops Mentos Mint Pacote com 112,5g",
+    "preco": 5.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/276560/m.jpg?v=638442731979100000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 65,
+    "nome": "Bala Bolete Dori Tutti Frutti Pacote com 600g",
+    "descricao": "Bala Bolete Dori Tutti Frutti Pacote com 600g",
+    "preco": 9.79,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/280189/g.jpg?v=638464334100430000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 66,
+    "nome": "Bala Mentos Kiss Morango Pacote com 35g",
+    "descricao": "Bala Mentos Kiss Morango Pacote com 35g",
+    "preco": 9.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/299215/g.jpg?v=638518763191530000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 67,
+    "nome": "Bala Mentos Kiss Menta Forte Pacote com 35g",
+    "descricao": "Bala Mentos Kiss Menta Forte Pacote com 35g",
+    "preco": 9.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/241543/g.jpg?v=638353852880500000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 68,
+    "nome": "Pastilha Tic Tac Laranja Unidade com 14,5g",
+    "descricao": "Pastilha Tic Tac Laranja Unidade com 14,5g",
+    "preco": 2.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/297457/p.jpg?v=638489388477630000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 69,
+    "nome": "Bala de Goma Dori Deliket Sortidas Pacote com 700g",
+    "descricao": "Bala de Goma Dori Deliket Sortidas Pacote com 700g",
+    "preco": 11.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/280110/p.jpg?v=638464333076970000"
+  },
+  {
+    "categoria": "Bomboniere",
+    "id": 70,
+    "nome": "Pirulito Pop Kiss Beija Mais Pacote com 500g",
+    "descricao": "Pirulito Pop Kiss Beija Mais Pacote com 500g",
+    "preco": 8.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/298916/g.jpg?v=638514443750400000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 71,
+    "nome": "Água de Coco ",
+    "descricao": "Água de Coco Kero Coco TP com 200ml",
+    "preco": 1.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/269322/p.jpg?v=638383979607230000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 72,
+    "nome": "Água Tônica",
+    "descricao": "Água Tônica Antarctica Zero Lata com 350ml",
+    "preco": 2.69,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268731/m.jpg?v=638379666532170000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 72,
+    "nome": "Água Tônica",
+    "descricao": "Água Tônica Antarctica Lata com 350ml",
+    "preco": 2.69,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/229433/g.jpg?v=638353719844430000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 73,
+    "nome": "Água Tônica",
+    "descricao": "Água Tônica Antarctica Zero Pet com 1L",
+    "preco": 7.19,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/255172/g.jpg?v=638354001917470000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 74,
+    "nome": "Cerveja Skol",
+    "descricao": "Cerveja Skol Redondinha Lata com 269ml",
+    "preco": 2.59,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268478/m.jpg?v=638379663876070000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 75,
+    "nome": "Whisky",
+    "descricao": "Whisky Jack Daniel's Garrafa com 1L",
+    "preco": 144.92,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/282568/m.jpg?v=638466061892500000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 76,
+    "nome": "Vinho Sangue de Boi",
+    "descricao": "Vinho Sangue de Boi Tinto Suave Garrafão com 4L",
+    "preco": 56.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/230269/g.jpg?v=638353728845630000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 77,
+    "nome": "Energético Monster",
+    "descricao": "Energético Monster Energy Lata com 473ml",
+    "preco": 8.19,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/241074/g.jpg?v=638353847847130000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 78,
+    "nome": "Whisky Old Parr",
+    "descricao": "Whisky Old Parr Garrafa com 1L",
+    "preco": 119.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/282332/p.jpg?v=638466059550200000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 79,
+    "nome": "Whisky Johnnie Walker",
+    "descricao": "Whisky Johnnie Walker Red Label Garrafa com 750ml",
+    "preco": 71.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/299190/g.jpg?v=638516171161800000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 80,
+    "nome": "Vodka Smirnoff ",
+    "descricao": "Vodka Smirnoff Garrafa com 998ml",
+    "preco": 34.1,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268637/g.jpg?v=638379665544030000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 81,
+    "nome": "Refrigerante de Cola",
+    "descricao": "Refrigerante sabor cola, 2L",
+    "preco": 5.99,
+    "imagem_url": "https://obahortifruti.vtexassets.com/arquivos/ids/5188035-800-450?v=638329593866800000&width=800&height=450&aspect=true"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 82,
+    "nome": "Bitter Campari",
+    "descricao": "Bitter Campari Garrafa com 998ml",
+    "preco": 62.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/283286/p.jpg?v=638466068969600000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 83,
+    "nome": "Bebida Alcoólica Mista Smirnoff Ice",
+    "descricao": "Bebida Alcoólica Mista Smirnoff Ice Garrafa com 275ml",
+    "preco": 7.59,
+    "imagem_url": "https://obahortifruti.vtexassets.com/arquivos/ids/5188035-800-450?v=638329593866800000&width=800&height=450&aspect=true"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 84,
+    "nome": "Cerveja Império",
+    "descricao": "Cerveja Império Puro Malte Lata com 350ml",
+    "preco": 2.59,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/244483/g.jpg?v=638353884836000000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 85,
+    "nome": "Whisky Ballantine’s",
+    "descricao": "Whisky Ballantine’s Finest Garrafa com 1L",
+    "preco": 73.91,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/282323/m.jpg?v=638466059447670000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 86,
+    "nome": "Cerveja Corona",
+    "descricao": "Cerveja Corona Long neck com 330ml",
+    "preco": 5.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/247749/g.jpg?v=638353920857600000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 87,
+    "nome": "Cerveja Spaten",
+    "descricao": "Cerveja Spaten Puro Malte Lata com 350ml",
+    "preco": 3.19,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/254515/g.jpg?v=638353994766830000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 88,
+    "nome": "Cerveja Petra",
+    "descricao": "Cerveja Petra Puro Malte Lata com 269ml",
+    "preco": 1.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/245030/g.jpg?v=638353890767900000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 89,
+    "nome": "Ice 51 Limão",
+    "descricao": "Ice 51 Limão Long Neck com 275ml",
+    "preco": 5.69,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/273091/m.jpg?v=638425451398530000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 90,
+    "nome": "Gin Tanqueray",
+    "descricao": "Gin Tanqueray Garrafa com 750ml",
+    "preco": 93.0,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/244745/g.jpg?v=638353887666270000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 91,
+    "nome": "Energético Baly",
+    "descricao": "Energético Baly Tradicional Pet com 2L",
+    "preco": 10.4,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/282541/g.jpg?v=638466061624300000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 92,
+    "nome": "Suco de Maçã Yakult",
+    "descricao": "Suco de Maçã Yakult Integral TP com 200ml",
+    "preco": 2.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/243280/g.jpg?v=638353871782800000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 93,
+    "nome": "Suco Natural One Uva ",
+    "descricao": "Suco Natural One Uva e maçã Pet com 2L",
+    "preco": 18.2,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/248067/g.jpg?v=638353924309730000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 94,
+    "nome": "Suco Integral de Uva",
+    "descricao": "Suco Integral de Uva Aurora Tinto TP com 1,5L",
+    "preco": 16.09,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/293109/p.jpg?v=638476432251600000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 95,
+    "nome": "Vinho Pérgola",
+    "descricao": "Vinho Pérgola Tinto suave Garrafa com 750ml",
+    "preco": 17.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/284056/g.jpg?v=638466929627500000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 96,
+    "nome": "Gin Intencion",
+    "descricao": "Gin Intencion Garrafa com 900ml",
+    "preco": 12.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/282548/g.jpg?v=638466061695900000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 97,
+    "nome": "Cerveja Antarctica",
+    "descricao": "Cerveja Antarctica Lata com 350ml",
+    "preco": 1.97,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268774/g.jpg?v=638379666984930000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 98,
+    "nome": "Energético Monster",
+    "descricao": "Energético Monster Mango loco Lata com 473ml",
+    "preco": 8.59,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/247092/g.jpg?v=638353913731900000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 99,
+    "nome": "Bebida Alcoólica Cabaré",
+    "descricao": "Bebida Alcoólica Cabaré Ice Garrafa com 275ml",
+    "preco": 5.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/294337/g.jpg?v=638479020011930000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 100,
+    "nome": "Cerveja Brahma",
+    "descricao": "Cerveja Brahma Duplo Malte Lata com 350ml",
+    "preco": 4.48,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/248434/g.jpg?v=638353928348600000"
+  },
+  {
+    "categoria": "Bebidas",
+    "id": 101,
+    "nome": "Refresco Líquido Guaraviton",
+    "descricao": "Refresco Líquido Guaraviton Açaí Pet com 500ml",
+    "preco": 2.19,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/292657/g.jpg?v=638476428134130000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 102,
+    "nome": "Bombom Garoto Sortido",
+    "descricao": "Bombom Garoto Sortido Caixeta com 250g",
+    "preco": 11.6,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/281244/g.jpg?v=638465199991470000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 103,
+    "nome": "Leite Condensado Italac",
+    "descricao": "Leite Condensado Italac Semidesnatado TP com 395g",
+    "preco": 3.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/272305/m.jpg?v=638418539452700000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 104,
+    "nome": "Creme de Leite Piracanjuba",
+    "descricao": "Creme de Leite Piracanjuba TP com 200g",
+    "preco": 2.69,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/272003/p.jpg?v=638416811643030000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 103,
+    "nome": "Óleo de Soja Soya",
+    "descricao": "Óleo de Soja Soya Pet com 900ml",
+    "preco": 5.79,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/284687/g.jpg?v=638467788571630000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 104,
+    "nome": "Arroz Namorado",
+    "descricao": "Arroz Namorado Agulhinha Tipo 1 Pacote com 5kg",
+    "preco": 28.5,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268443/g.jpg?v=638379663498270000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 105,
+    "nome": "Feijão Carioca Kicaldo",
+    "descricao": "Feijão Carioca Kicaldo Tipo 1 Pacote com 1kg",
+    "preco": 6.5,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/229327/g.jpg?v=638353718648770000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 106,
+    "nome": "Açúcar Caravelas",
+    "descricao": "Açúcar Caravelas Refinado Pacote com 1kg",
+    "preco": 3.59,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/231409/g.jpg?v=638353741434430000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 107,
+    "nome": "Leite Condensado Moça",
+    "descricao": "Leite Condensado Moça Integral Lata com 395g",
+    "preco": 7.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/278249/m.jpg?v=638459147316370000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 108,
+    "nome": "Creme de Leite Italac",
+    "descricao": "Creme de Leite Italac TP com 200g",
+    "preco": 3.09,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268123/g.jpg?v=638379660041570000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 109,
+    "nome": "Arroz Solito",
+    "descricao": "Arroz Solito Agulhinha - Tipo 1 Pacote com 5kg",
+    "preco": 27.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/243498/g.jpg?v=638353874247870000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 110,
+    "nome": "Café Melitta",
+    "descricao": "Café Melitta Tradicional Vácuo Caixeta com 500g",
+    "preco": 15.98,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/284748/g.jpg?v=638467789151070000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 111,
+    "nome": "Arroz Camil",
+    "descricao": "Arroz Camil Agulhinha Tipo 1 Pacote com 1kg",
+    "preco": 5.93,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/229445/g.jpg?v=638353719983070000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 112,
+    "nome": "Macarrão com Ovos Dona Benta",
+    "descricao": "Macarrão com Ovos Dona Benta Espaguete Pacote com 500g",
+    "preco": 3.19,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/287407/p.jpg?v=638468660379700000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 113,
+    "nome": "Farinha de Trigo Dona Benta",
+    "descricao": "Farinha de Trigo Dona Benta Tipo 1 Pacote com 1kg",
+    "preco": 4.69,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/230950/g.jpg?v=638353736317030000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 114,
+    "nome": "Creme Ferrero Nutella",
+    "descricao": "Creme Ferrero Nutella Avelã com Cacau Pote com 650g",
+    "preco": 40.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/238822/g.jpg?v=638353823229700000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 115,
+    "nome": "Macarrão Instantâneo Nissin",
+    "descricao": "Macarrão Instantâneo Nissin Lámen Galinha caipira Pacote com 85g",
+    "preco": 2.35,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268442/g.jpg?v=638379663491400000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 116,
+    "nome": "Molho de Tomate Quero",
+    "descricao": "Molho de Tomate Quero Tradicional Pouch com 300g",
+    "preco": 1.78,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/280539/g.jpg?v=638464338528300000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 117,
+    "nome": "Café Pilão",
+    "descricao": "Café Pilão Almofada Pacote com 500g",
+    "preco": 21.48,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/284601/m.jpg?v=638467787749900000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 118,
+    "nome": "Feijão Preto Kicaldo",
+    "descricao": "Feijão Preto Kicaldo Tipo 1 Pacote com 1kg",
+    "preco": 6.7,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/229595/g.jpg?v=638353721611430000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 119,
+    "nome": "Achocolatado em Pó Nescau",
+    "descricao": "Achocolatado em Pó Nescau Lata com 370g",
+    "preco": 7.91,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/263769/g.jpg?v=638354096060830000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 120,
+    "nome": "Açúcar Orgânico Native",
+    "descricao": "Açúcar Orgânico Native Demerara Pacote com 1kg",
+    "preco": 4.45,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/287697/m.jpg?v=638468663052630000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 121,
+    "nome": "Chá Matte Leão",
+    "descricao": "Chá Matte Leão Caixeta com 250g",
+    "preco": 5.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/271027/p.jpg?v=638409899220530000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 122,
+    "nome": "Adoçante Líquido Zero-Cal",
+    "descricao": "Adoçante Líquido Zero-Cal Sacarina Frasco com 100ml",
+    "preco": 4.59,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268516/m.jpg?v=638379664266130000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 123,
+    "nome": "Doce Paçoca Santa Helena",
+    "descricao": "Doce Paçoca Santa Helena Paçoquita Rolha Embalada Pote com 50x15g",
+    "preco": 23.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/281159/g.jpg?v=638465199160670000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 124,
+    "nome": "Biscoito Maizena Vitarella",
+    "descricao": "Biscoito Maizena Vitarella Tradicional Pacote com 350g",
+    "preco": 4.35,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/281554/p.jpg?v=638465203075770000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 125,
+    "nome": "Tapioca Garlic",
+    "descricao": "Tapioca Garlic Pacote com 1kg",
+    "preco": 8.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/290812/g.jpg?v=638468693924900000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 126,
+    "nome": "Molho de Tomate Pomarola",
+    "descricao": "Molho de Tomate Pomarola Tradicional Pouch com 300g",
+    "preco": 2.3,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/286153/p.jpg?v=638467802869600000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 127,
+    "nome": "Sardinha Ralada 88",
+    "descricao": "Sardinha Ralada 88 Óleo Lata com 80g",
+    "preco": 3.29,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/247860/g.jpg?v=638353922046300000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 128,
+    "nome": "Macarrão Instantâneo Nissin",
+    "descricao": "Macarrão Instantâneo Nissin Cup Noodles Galinha caipira Copo com 69g",
+    "preco": 4.29,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/288893/p.jpg?v=638468674751370000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 129,
+    "nome": "Café União",
+    "descricao": "Café União Tradicional Pouch com 500g",
+    "preco": 14.98,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/286013/g.jpg?v=638467801501400000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 130,
+    "nome": "Maionese Hellmann's",
+    "descricao": "Maionese Hellmann's Pack com 2x500g",
+    "preco": 17.89,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/298803/p.jpg?v=638512715110570000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 131,
+    "nome": "Queijo Ralado Parmesão",
+    "descricao": "Queijo Ralado Parmesão Président Pacote com 50g",
+    "preco": 4.3,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/241945/g.jpg?v=638353857343270000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 132,
+    "nome": "Milho para Pipoca Kicaldo",
+    "descricao": "Milho para Pipoca Kicaldo Pacote com 500g",
+    "preco": 4.7,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/285087/m.jpg?v=638467792425600000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 133,
+    "nome": "Coco Ralado Sococo",
+    "descricao": "Coco Ralado Sococo Pacote com 100g",
+    "preco": 5.19,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/280221/p.jpg?v=638464334396730000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 134,
+    "nome": "Azeite de Oliva",
+    "descricao": "Azeite de Oliva Morixe Extra Virgem Pet com 500ml",
+    "preco": 38.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/286234/g.jpg?v=638467803621770000"
+  },
+  {
+    "categoria": "Mercearia",
+    "id": 135,
+    "nome": "Bombom Ferrero Rocher",
+    "descricao": "Bombom Ferrero Rocher Caixeta com 12 unidades",
+    "preco": 31.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/273369/m.jpg?v=638430635515030000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 136,
+    "nome": "Arroz Namorado",
+    "descricao": "Arroz Namorado Agulhinha Tipo 1 Pacote com 5kg",
+    "preco": 28.5,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268443/g.jpg?v=638379663498270000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 137,
+    "nome": "Feijão Carioca Kicaldo",
+    "descricao": "Feijão Carioca Kicaldo Tipo 1 Pacote com 1kg",
+    "preco": 6.7,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/229327/g.jpg?v=638353718648770000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 138,
+    "nome": "Feijão Carioca Camil",
+    "descricao": "Feijão Carioca Camil Tipo 1 Pacote com 1kg",
+    "preco": 6.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268595/g.jpg?v=638379665105470000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 139,
+    "nome": "Arroz Camil",
+    "descricao": "Arroz Camil Agulhinha Tipo 1 Pacote com 1kg",
+    "preco": 5.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/229445/g.jpg?v=638353719983070000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 140,
+    "nome": "Feijão Carioca Da Casa",
+    "descricao": "Feijão Carioca Da Casa Tipo 1 Pacote com 1kg",
+    "preco": 4.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/232648/g.jpg?v=638353755497500000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 141,
+    "nome": "Arroz Tio João",
+    "descricao": "Arroz Tio João Agulhinha - Tipo 1 Pacote com 5kg",
+    "preco": 33.7,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268402/g.jpg?v=638379663059700000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 142,
+    "nome": "Arroz Japonês Nikkoh",
+    "descricao": "Arroz Japonês Nikkoh Tipo 1 Pacote com 5kg",
+    "preco": 59.0,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/285546/g.jpg?v=638467797045500000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 143,
+    "nome": "Arroz Máximo",
+    "descricao": "Arroz Máximo Agulhinha Tipo 1 Pacote com 5kg",
+    "preco": 26.1,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/233435/g.jpg?v=638353764109800000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 144,
+    "nome": "Arroz Vila Nova",
+    "descricao": "Arroz Vila Nova Parboilizado - Tipo 1 Pacote com 5kg",
+    "preco": 25.5,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/229522/g.jpg?v=638353720822970000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 145,
+    "nome": "Feijão Carioca Pantera",
+    "descricao": "Feijão Carioca Pantera Tipo 1 Pacote com 1kg",
+    "preco": 8.1,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/233158/g.jpg?v=638353761140700000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 146,
+    "nome": "Arroz Patéko",
+    "descricao": "Arroz Patéko Agulhinha- Tipo 1 Pacote com 5kg",
+    "preco": 39.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/230023/g.jpg?v=638353726209700000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 147,
+    "nome": "Feijão Fradinho Kicaldo",
+    "descricao": "Feijão Fradinho Kicaldo Tipo 1 Pacote com 1kg",
+    "preco": 7.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/230405/g.jpg?v=638353730333100000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 148,
+    "nome": "Arroz Integral Tio João",
+    "descricao": "Arroz Integral Tio João Tipo 1 Pacote com 1kg",
+    "preco": 7.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/285089/m.jpg?v=638467792444200000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 149,
+    "nome": "Arroz Albaruska",
+    "descricao": "Arroz Albaruska Agulhinha Tipo 1 Pacote com 5kg",
+    "preco": 33.0,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/232994/g.jpg?v=638353759320270000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 150,
+    "nome": "Feijão Carioca Kicaldo",
+    "descricao": "Feijão Carioca Kicaldo Orgânico - Tipo 1 Pacote com 500g",
+    "preco": 5.6,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/286170/m.jpg?v=638467803024900000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 151,
+    "nome": "Milho para Pipoca Yoki",
+    "descricao": "Milho para Pipoca Yoki Pacote com 400g",
+    "preco": 5.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/291077/p.jpg?v=638468696548170000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 152,
+    "nome": "Arroz Integral Albaruska",
+    "descricao": "Arroz Integral Albaruska Tipo 1 Pacote com 1kg",
+    "preco": 6.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/285229/p.jpg?v=638467793819570000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 152,
+    "nome": "Arroz Urbano",
+    "descricao": "Arroz Urbano Integral - Tipo 1 Pacote com 1kg",
+    "preco": 7.3,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/284858/g.jpg?v=638467790180070000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 153,
+    "nome": "Arroz Blue Ville",
+    "descricao": "Arroz Blue Ville Agulhinha Tipo 1 Pacote com 5kg",
+    "preco": 26.7,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268599/m.jpg?v=638379665149700000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 154,
+    "nome": "Feijão Branco Kicaldo",
+    "descricao": "Feijão Branco Kicaldo Tipo 1 Pacote com 1kg",
+    "preco": 12.2,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/285060/m.jpg?v=638467792153900000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 155,
+    "nome": "Arroz Visconde",
+    "descricao": "Arroz Visconde Agulhinha - Tipo 1 Pacote com 5kg",
+    "preco": 25.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/247945/g.jpg?v=638353922976700000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 156,
+    "nome": "Proteína de Soja Texturizada",
+    "descricao": "Proteína de Soja Texturizada Campo Belo Carne Pacote com 500g",
+    "preco": 8.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/287842/g.jpg?v=638468664464800000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 157,
+    "nome": "Arroz Empório São João",
+    "descricao": "Arroz Empório São João Agulhinha Tipo 1 Pacote com 5kg",
+    "preco": 33.45,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/271818/p.jpg?v=638414219251000000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 158,
+    "nome": "Feijão Carioca Broto Legal",
+    "descricao": "Feijão Carioca Broto Legal Tipo1 Pacote com 1kg",
+    "preco": 8.3,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268226/g.jpg?v=638379661147500000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 159,
+    "nome": "Arroz Momiji Japonês",
+    "descricao": "Arroz Momiji Japonês Tipo 1 Pacote com 5kg",
+    "preco": 64.5,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/284725/g.jpg?v=638467788928400000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 160,
+    "nome": "Feijão Kicaldo Vermelho",
+    "descricao": "Feijão Kicaldo Vermelho Pacote com 1kg",
+    "preco": 12.3,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/285059/p.jpg?v=638467792146870000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 161,
+    "nome": "Feijão Carioca Namorado",
+    "descricao": "Feijão Carioca Namorado Tipo 1 Pacote com 1kg",
+    "preco": 6.19,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/241890/g.jpg?v=638353856734600000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 162,
+    "nome": "Arroz Integral Tio João",
+    "descricao": "Arroz Integral Tio João 7 Grãos com quinoa Pacote com 500g",
+    "preco": 10.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/285542/g.jpg?v=638467797000200000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 163,
+    "nome": "Ervilha Partida Kicaldo",
+    "descricao": "Ervilha Partida Kicaldo Pacote com 500g",
+    "preco": 8.3,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/285436/g.jpg?v=638467795972670000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 164,
+    "nome": "Feijão Rajado Kicaldo",
+    "descricao": "Feijão Rajado Kicaldo Tipo 1 Pacote com 1kg",
+    "preco": 11.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/284788/g.jpg?v=638467789515330000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 165,
+    "nome": "Arroz Urbano",
+    "descricao": "Arroz Urbano 7 Grãos Pacote com 1kg",
+    "preco": 15.3,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/285930/g.jpg?v=638467800703530000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 166,
+    "nome": "Arroz Integral Tio João",
+    "descricao": "Arroz Integral Tio João 7 Grãos com quinoa Pacote com 1kg",
+    "preco": 20.2,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/286001/g.jpg?v=638467801382500000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 167,
+    "nome": "Arroz Integral Meu Biju",
+    "descricao": "Arroz Integral Meu Biju 8 Grãos com Quinoa Pacote com 500g",
+    "preco": 11.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/286139/g.jpg?v=638467802732270000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 168,
+    "nome": "Grão de Bico Yoki",
+    "descricao": "Grão de Bico Yoki Pacote com 400g",
+    "preco": 13.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/291079/p.jpg?v=638468696567170000"
+  },
+  {
+    "categoria": "Grãos",
+    "id": 169,
+    "nome": "Arroz Tio João Orgânico",
+    "descricao": "Arroz Tio João Orgânico - Tipo 1 Pacote com 1kg",
+    "preco": 12.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/286003/g.jpg?v=638467801404070000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 170,
+    "nome": "Desinfetante Germinex Pato",
+    "descricao": "Desinfetante Germinex Pato Marine Frasco com 750ml",
+    "preco": 15.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/257220/g.jpg?v=638354024685870000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 171,
+    "nome": "Detergente Líquido Limpol",
+    "descricao": "Detergente Líquido Limpol Coco Frasco com 500ml",
+    "preco": 2.15,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/278729/g.jpg?v=638460877410300000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 172,
+    "nome": "Detergente em Pó Tixan",
+    "descricao": "Detergente em Pó Tixan Antibac Caixeta com 800g",
+    "preco": 7.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/279288/p.jpg?v=638460882880030000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 173,
+    "nome": "Água Sanitária Ypê",
+    "descricao": "Água Sanitária Ypê Frasco com 2L",
+    "preco": 4.98,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/240140/g.jpg?v=638353837713270000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 174,
+    "nome": "Detergente em Pó Lavanderia Profissional",
+    "descricao": "Detergente em Pó Lavanderia Profissional Omo Clinical Pacote com 4kg",
+    "preco": 44.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/262518/g.jpg?v=638354082391170000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 175,
+    "nome": "Arroz Tio João Orgânico",
+    "descricao": "Arroz Tio João Orgânico - Tipo 1 Pacote com 1kg",
+    "preco": 12.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/286003/g.jpg?v=638467801404070000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 176,
+    "nome": "Álcool Coperalcool",
+    "descricao": "Álcool Coperalcool 46º INPM Frasco com 1L",
+    "preco": 8.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/278748/p.jpg?v=638460877582270000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 177,
+    "nome": "Amaciante para Roupas",
+    "descricao": "Amaciante para Roupas Concentrado Comfort Azul Frasco com 500ml",
+    "preco": 8.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/231842/g.jpg?v=638353746343370000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 178,
+    "nome": "Inseticida Aerossol SBP",
+    "descricao": "Inseticida Aerossol SBP Multi-Inseticida Tubo com 380ml",
+    "preco": 16.5,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/241804/g.jpg?v=638353855801430000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 179,
+    "nome": "Amaciante para Roupas Concentrado",
+    "descricao": "Amaciante para Roupas Concentrado Downy Brisa de verão Frasco com 3L",
+    "preco": 53.4,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/248986/g.jpg?v=638353934386000000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 180,
+    "nome": "Lava Roupas Líquido",
+    "descricao": "Lava Roupas Líquido Ares Bombona com 5L",
+    "preco": 19.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/239375/g.jpg?v=638353829307230000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 181,
+    "nome": "Esponja Scotch-Brite",
+    "descricao": "Esponja Scotch-Brite Não Risca Pacote com 3 unidades",
+    "preco": 7.1,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/283580/m.jpg?v=638466925146270000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 182,
+    "nome": "Amaciante Concentrado para Roupas",
+    "descricao": "Amaciante Concentrado para Roupas Comfort Perfect white Bombona com 5L",
+    "preco": 77.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/276188/m.jpg?v=638441870487300000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 183,
+    "nome": "Detergente Líquido Minuano",
+    "descricao": "Detergente Líquido Minuano Neutro Frasco com 500ml",
+    "preco": 1.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/278605/p.jpg?v=638460876103230000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 184,
+    "nome": "Água Sanitária",
+    "descricao": "Água Sanitária Olimpo Frasco com 1L",
+    "preco": 2.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/236458/g.jpg?v=638353796978930000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 185,
+    "nome": "Lã de Aço",
+    "descricao": "Lã de Aço Assolan Pacote com 45g",
+    "preco": 1.69,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/298771/m.jpg?v=638509259176330000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 186,
+    "nome": "Detergente em Pó Brilhante",
+    "descricao": "Detergente em Pó Brilhante Limpeza Total Pacote com 2,4kg",
+    "preco": 24.95,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/282921/g.jpg?v=638466065361700000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 187,
+    "nome": "Esponja Multiuso",
+    "descricao": "Esponja Multiuso Alklin Unidade",
+    "preco": 0.95,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/247244/g.jpg?v=638353915392300000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 188,
+    "nome": "Amaciante para Roupa",
+    "descricao": "Amaciante para Roupa Ypê Intenso Frasco com 2L",
+    "preco": 8.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/249956/g.jpg?v=638353944879500000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 189,
+    "nome": "Esponja Multiuso",
+    "descricao": "Esponja Multiuso Bombril Pacote com 4 unidades",
+    "preco": 5.3,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/278803/m.jpg?v=638460878126430000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 190,
+    "nome": "Lava Roupas Líquido",
+    "descricao": "Lava Roupas Líquido Omo Lavagem Perfeita Frasco com 3L",
+    "preco": 35.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/258873/g.jpg?v=638354042727330000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 191,
+    "nome": "Lava Roupas Líquido",
+    "descricao": "Lava Roupas Líquido Omo Ultra Power Frasco com 1,8L",
+    "preco": 28.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/263883/g.jpg?v=638354097340170000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 192,
+    "nome": "Amaciante para Roupas",
+    "descricao": "Amaciante para Roupas Comfort PRO Original Bombona com 7L",
+    "preco": 64.3,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/256752/g.jpg?v=638354019527970000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 193,
+    "nome": "Desinfetante Pinho Sol",
+    "descricao": "Desinfetante Pinho Sol Original Frasco com 500ml",
+    "preco": 6.7,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/277504/g.jpg?v=638450507294900000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 194,
+    "nome": "Sapólio Radium Cremoso",
+    "descricao": "Sapólio Radium Cremoso Clássico Frasco com 250ml",
+    "preco": 6.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/270102/g.jpg?v=638399531409400000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 195,
+    "nome": "Limpador Cremoso",
+    "descricao": "Limpador Cremoso Cif Limpeza Profunda Frasco com 250ml",
+    "preco": 8.98,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/235339/g.jpg?v=638353784939070000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 196,
+    "nome": "Detergente Líquido Limpol",
+    "descricao": "Detergente Líquido Limpol Neutro Bombona com 5L",
+    "preco": 19.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/232592/g.jpg?v=638353754871570000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 197,
+    "nome": "Sabão em Barra",
+    "descricao": "Sabão em Barra Glicerinado Minuano Neutro Pacote com 5x180g",
+    "preco": 10.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/279179/p.jpg?v=638460881767700000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 198,
+    "nome": "Cera Líquida",
+    "descricao": "Cera Líquida Brilho Fácil Incolor Frasco com 750ml",
+    "preco": 12.7,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268413/g.jpg?v=638379663180930000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 199,
+    "nome": "Removedor Zulu",
+    "descricao": "Removedor Zulu Frasco com 900ml",
+    "preco": 7.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/260507/g.jpg?v=638354060493700000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 200,
+    "nome": "Limpa Forno",
+    "descricao": "Limpa Forno Diabo Verde Frasco com 250g",
+    "preco": 10.5,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/299292/g.jpg?v=638521355191130000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 201,
+    "nome": "Limpador Perfumado",
+    "descricao": "Limpador Perfumado Coala Lavanda Frasco com 120ml",
+    "preco": 10.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/248114/g.jpg?v=638353924810300000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 202,
+    "nome": "Limpador Multiuso",
+    "descricao": "Limpador Multiuso Ypê Clássico Frasco com 500ml",
+    "preco": 2.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268081/p.jpg?v=638379659570300000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 203,
+    "nome": "Lustra Móveis",
+    "descricao": "Lustra Móveis Peroba Campos de Lavanda Frasco com 200ml",
+    "preco": 5.78,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/235076/g.jpg?v=638353782093470000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 204,
+    "nome": "Tira Manchas em Pó",
+    "descricao": "Tira Manchas em Pó Vanish White Pacote com 400g",
+    "preco": 20.5,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/253411/g.jpg?v=638353982645130000"
+  },
+  {
+    "categoria": "Limpeza",
+    "id": 205,
+    "nome": "Limpa Alumínio",
+    "descricao": "Limpa Alumínio Diabo Verde Frasco com 500ml",
+    "preco": 5.69,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/278539/g.jpg?v=638460875489500000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 206,
+    "nome": "Desodorante em Creme",
+    "descricao": "Desodorante em Creme Above Candy Pote com 50g",
+    "preco": 3.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/283291/g.jpg?v=638466069018830000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 207,
+    "nome": "Papel Higiênico Neve",
+    "descricao": "Papel Higiênico Neve Compacto Folha Dupla- 30m Pacote com 16 rolos",
+    "preco": 25.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/233583/g.jpg?v=638353765764270000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 208,
+    "nome": "Creme Dental",
+    "descricao": "Creme Dental Oral-B 1-2-3 Tubo com 70g",
+    "preco": 4.2,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/278844/m.jpg?v=638460878528400000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 209,
+    "nome": "Sabonete Líquido",
+    "descricao": "Sabonete Líquido Tacto Erva Doce Bombona com 5L",
+    "preco": 35.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/295926/p.jpg?v=638484207263300000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 210,
+    "nome": "Sabonete Suave",
+    "descricao": "Sabonete Suave Maran Amêndoas Unidade com 85g",
+    "preco": 1.2,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/279186/p.jpg?v=638460881843570000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 211,
+    "nome": "Shampoo Head & Shoulders",
+    "descricao": "Shampoo Head & Shoulders 3 em 1 Frasco com 200ml",
+    "preco": 15.5,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/274655/g.jpg?v=638435821683900000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 212,
+    "nome": "Sabonete Suave",
+    "descricao": "Sabonete Suave Palmolive Melancia e Lichia Unidade com 85g",
+    "preco": 2.3,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/279326/p.jpg?v=638460883252970000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 213,
+    "nome": "Kit Elseve ",
+    "descricao": "Kit Elseve Shampoo 375ml + Condicionador 170ml Reparação Total 5",
+    "preco": 28.0,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/274720/p.jpg?v=638435822265500000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 214,
+    "nome": "Fralda Descartável",
+    "descricao": "Fralda Descartável Cocoricó Mega M Pacote com 54 unidades",
+    "preco": 39.5,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/276400/m.jpg?v=638441872934100000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 215,
+    "nome": "Creme Dental",
+    "descricao": "Creme Dental Colgate MPA Tubo com 50g",
+    "preco": 2.7,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/278527/g.jpg?v=638460875376400000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 216,
+    "nome": "Fralda Geriátrica",
+    "descricao": "Fralda Geriátrica Biofral Classic M Pacote com 32 unidades",
+    "preco": 66.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/250030/g.jpg?v=638353945694270000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 217,
+    "nome": "Absorvente Always",
+    "descricao": "Absorvente Always Super Proteção Suave com abas Pacote com 32 unidades",
+    "preco": 12.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/242713/g.jpg?v=638353865719230000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 218,
+    "nome": "Álcool em Gel",
+    "descricao": "Álcool em Gel Coperalcool 70° INPM Frasco com 500g",
+    "preco": 10.5,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/262189/g.jpg?v=638354078771930000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 219,
+    "nome": "Kit Seda",
+    "descricao": "Kit Seda Shampoo + Condicionador Cachos Definidos",
+    "preco": 17.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/278872/g.jpg?v=638460878807530000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 220,
+    "nome": "Absorvente em Gel Noturno",
+    "descricao": "Absorvente em Gel Noturno Intimus Suave com abas Pacote com 30 unidades",
+    "preco": 22.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/248100/g.jpg?v=638353924666870000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 221,
+    "nome": "Desodorante Aerossol",
+    "descricao": "Desodorante Aerossol Dove Invisible dry Frasco com 200ml",
+    "preco": 19.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/248518/g.jpg?v=638353929261300000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 222,
+    "nome": "Kit Salon Line",
+    "descricao": "Kit Salon Line Shampoo + Condicionador Hidra Kids",
+    "preco": 15.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/282856/g.jpg?v=638466064731130000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 223,
+    "nome": "Papel Higiênico",
+    "descricao": "Papel Higiênico Sublime Folha Simples - 30m Pacote com 4 rolos",
+    "preco": 4.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/229541/g.jpg?v=638353721029900000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 224,
+    "nome": "Escova para Cabelo",
+    "descricao": "Escova para Cabelo Condor Bellê Oval Unidade",
+    "preco": 10.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/263695/g.jpg?v=638354095268930000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 225,
+    "nome": "Aparelho de Barbear",
+    "descricao": "Aparelho de Barbear Gillette Prestobarba 3 Feminino Embalagem com 4 unidades",
+    "preco": 15.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/249505/g.jpg?v=638353939964130000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 226,
+    "nome": "Creme Dental",
+    "descricao": "Creme Dental Oral-B 1-2-3 Caixeta com 12x70g",
+    "preco": 20.79,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/263245/g.jpg?v=638354090346470000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 227,
+    "nome": "Fralda Descartável",
+    "descricao": "Fralda Descartável Pampers Pants XG Pacote com 66 unidades",
+    "preco": 110.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/272296/g.jpg?v=638417677114870000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 228,
+    "nome": "Papel Higiênico",
+    "descricao": "Papel Higiênico Personal Vip Folha dupla - 30m Pacote com 12 rolos",
+    "preco": 32.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/241034/g.jpg?v=638353847412030000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 229,
+    "nome": "Repelente em Loção",
+    "descricao": "Repelente em Loção Off Frasco com 100ml",
+    "preco": 17.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/273168/m.jpg?v=638428043217300000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 230,
+    "nome": "Fralda Descartável",
+    "descricao": "Fralda Descartável Pampers Confort Sec P Pacote com 72 unidades",
+    "preco": 89.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/275423/g.jpg?v=638437549254400000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 231,
+    "nome": "Fralda Descartável",
+    "descricao": "Fralda Descartável Pampers Confort Sec M Pacote com 70 unidades",
+    "preco": 89.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/260394/g.jpg?v=638354059277930000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 232,
+    "nome": "Escova Dental",
+    "descricao": "Escova Dental Condor Kit",
+    "preco": 5.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/284562/p.jpg?v=638467787363300000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 233,
+    "nome": "Desodorante Aerossol",
+    "descricao": "Desodorante Aerossol Rexona Activen men Tubo com 200ml",
+    "preco": 17.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/242767/g.jpg?v=638353866322500000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 234,
+    "nome": "Aparelho de Barbear",
+    "descricao": "Aparelho de Barbear Gillette Prestobarba2 UltraGrip Cabeça Móvel Blíster com 2",
+    "preco": 7.3,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/278671/m.jpg?v=638460876744670000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 235,
+    "nome": "Sabonete Líquido",
+    "descricao": "Sabonete Líquido Mineirinha Erva Doce Frasco com 2L",
+    "preco": 15.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/238919/g.jpg?v=638353824294130000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 236,
+    "nome": "Shampoo Infantil",
+    "descricao": "Shampoo Infantil Johnson’s Baby Frasco com 200ml",
+    "preco": 15.5,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/229848/g.jpg?v=638353724328970000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 237,
+    "nome": "Álcool em Gel",
+    "descricao": "Álcool em Gel Zulu 70° INPM Frasco com 500g",
+    "preco": 8.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/262190/g.jpg?v=638354078782200000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 238,
+    "nome": "Shampoo Palmolive",
+    "descricao": "Shampoo Palmolive Neutro Frasco com 350ml",
+    "preco": 9.45,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/278258/m.jpg?v=638459147406930000"
+  },
+  {
+    "categoria": "Higiene",
+    "id": 239,
+    "nome": "Hastes Flexíveis Cotonela",
+    "descricao": "Hastes Flexíveis Cotonela Caixeta com 75 unidades",
+    "preco": 2.0,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/295169/g.jpg?v=638482475617830000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 240,
+    "nome": "Leite em Pó",
+    "descricao": "Leite em Pó Ninho Integral Lata com 380g",
+    "preco": 17.97,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/281407/g.jpg?v=638465201590400000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 241,
+    "nome": "Leite Longa Vida",
+    "descricao": "Leite Longa Vida Italac Com tampa Integral TP com 1L",
+    "preco": 5.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/233162/g.jpg?v=638353761184700000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 242,
+    "nome": "Leite Longa Vida",
+    "descricao": "Leite Longa Vida Piracanjuba Com tampa Integral TP com 1L",
+    "preco": 5.89,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/272026/m.jpg?v=638416811920370000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 243,
+    "nome": "Leite Longa Vida",
+    "descricao": "Leite Longa Vida Ninho Integral TP com 1L",
+    "preco": 6.0,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/229651/g.jpg?v=638353722210900000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 244,
+    "nome": "Leite Longa Vida",
+    "descricao": "Leite Longa Vida Jussara Com tampa Integral TP com 1L",
+    "preco": 5.79,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/248548/g.jpg?v=638353929574170000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 245,
+    "nome": "Pão de Forma",
+    "descricao": "Pão de Forma Pullman Tradicional Pacote com 480g",
+    "preco": 5.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/251919/g.jpg?v=638353966263930000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 246,
+    "nome": "Pão para Hot Dog",
+    "descricao": "Pão para Hot Dog Kim Pacote com 500g",
+    "preco": 7.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/232391/g.jpg?v=638353752671300000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 247,
+    "nome": "Pão para Hambúrguer",
+    "descricao": "Pão para Hambúrguer Pullman Brioche Pacote com 520g",
+    "preco": 8.8,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/248662/g.jpg?v=638353930821200000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 248,
+    "nome": "Leite em Pó",
+    "descricao": "Leite em Pó Molico Instantâneo Lata com 280g",
+    "preco": 17.19,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/280948/m.jpg?v=638465196994800000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 249,
+    "nome": "Fórmula Infantil Aptamil",
+    "descricao": "Fórmula Infantil Aptamil 1 Lata com 800g",
+    "preco": 69.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/236476/g.jpg?v=638353797176370000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 250,
+    "nome": "Pão de Forma",
+    "descricao": "Pão de Forma Bauducco Tradicional Pacote com 390g",
+    "preco": 6.98,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/298384/g.jpg?v=638508854522200000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 251,
+    "nome": "Pão de Forma",
+    "descricao": "Pão de Forma Visconti Integral Pacote com 400g",
+    "preco": 6.39,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/298385/m.jpg?v=638508854533370000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 252,
+    "nome": "Pão de Forma",
+    "descricao": "Pão de Forma Visconti Tradicional Pacote com 400g",
+    "preco": 5.98,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/298386/g.jpg?v=638508854543900000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 253,
+    "nome": "Leite em Pó",
+    "descricao": "Leite em Pó Parmalat Zero Lactose Pacote com 300g",
+    "preco": 14.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/262865/g.jpg?v=638354086210730000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 254,
+    "nome": "Leite Longa Vida",
+    "descricao": "Leite Longa Vida Jussara Integral Garrafa com 1L",
+    "preco": 5.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/237495/g.jpg?v=638353808495200000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 255,
+    "nome": "Pão de Forma",
+    "descricao": "Pão de Forma Panco Pacote com 500g",
+    "preco": 6.95,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268583/m.jpg?v=638379664972230000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 256,
+    "nome": "Granola",
+    "descricao": "Granola Villamar Tradicional Pacote com 1kg",
+    "preco": 23.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/243819/g.jpg?v=638353877656230000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 257,
+    "nome": "Mucilon",
+    "descricao": "Mucilon Nestlé Multicereais Pacote com 1kg",
+    "preco": 32.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/299174/p.jpg?v=638515307460900000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 258,
+    "nome": "Pão para Hambúrguer",
+    "descricao": "Pão para Hambúrguer Pullman Com Gergelim Pacote com 420g",
+    "preco": 7.98,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/243015/g.jpg?v=638353868968200000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 259,
+    "nome": "Aveia",
+    "descricao": "Aveia Nestlé Flocos Finos Caixeta com 550g",
+    "preco": 9.48,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/262620/g.jpg?v=638354083498300000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 260,
+    "nome": "Bisnaguinha",
+    "descricao": "Bisnaguinha Panco Pacote com 300g",
+    "preco": 6.7,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268584/m.jpg?v=638379664983300000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 261,
+    "nome": "Pão de Forma",
+    "descricao": "Pão de Forma Wickbold Integral Pacote com 450g",
+    "preco": 6.95,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/251425/g.jpg?v=638353960841770000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 262,
+    "nome": "Torrada",
+    "descricao": "Torrada Bauducco Tradicional Pacote com 142g",
+    "preco": 3.49,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/281211/g.jpg?v=638465199658370000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 263,
+    "nome": "Cereal Matinal",
+    "descricao": "Cereal Matinal Sucrilhos Kellogg’s Caixeta com 510g",
+    "preco": 17.29,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/236902/g.jpg?v=638353801808030000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 264,
+    "nome": "Pão do Forno",
+    "descricao": "Pão do Forno Wickbold Integral Pacote com 500g",
+    "preco": 8.99,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/247054/g.jpg?v=638353913312970000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 265,
+    "nome": "Bolinho",
+    "descricao": "Bolinho Seven Boys Chocolate com Chocolate Unidade com 35g",
+    "preco": 1.0,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/286367/g.jpg?v=638467804857800000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 266,
+    "nome": "Alimento em Pó",
+    "descricao": "Alimento em Pó Sustagen Kids Chocolate Pouch com 190g",
+    "preco": 11.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/280381/m.jpg?v=638464336488670000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 267,
+    "nome": "Cereal Matinal",
+    "descricao": "Cereal Matinal Nestlé Kit Kat Caixeta com 210g",
+    "preco": 8.79,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/282250/m.jpg?v=638465210014500000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 268,
+    "nome": "Pão de Hot Dog",
+    "descricao": "Pão de Hot Dog De Panes Pacote com 500g",
+    "preco": 6.59,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/268742/g.jpg?v=638379666649130000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 269,
+    "nome": "Pão Integral",
+    "descricao": "Pão Integral Nutrella Castanha e Quinoa Pacote com 350g",
+    "preco": 8.95,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/251202/g.jpg?v=638353958440070000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 270,
+    "nome": "Pão de Hambúrguer",
+    "descricao": "Pão de Hambúrguer Delamarie Pacote com 300g",
+    "preco": 4.75,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/234859/g.jpg?v=638353779756800000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 271,
+    "nome": "Pão para Hambúrguer",
+    "descricao": "Pão para Hambúrguer Pullman Artesano Original Pacote com 420g",
+    "preco": 12.98,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/263493/g.jpg?v=638354093064170000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 272,
+    "nome": "Bolo Pullman",
+    "descricao": "Bolo Pullman Ana Maria Duplo Chocolate Pacote com 35g",
+    "preco": 1.98,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/263488/g.jpg?v=638354093008270000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 273,
+    "nome": "Geleia",
+    "descricao": "Geleia Queensberry Frutas Vermelhas Vidro com 320g",
+    "preco": 19.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/237481/g.jpg?v=638353808335970000"
+  },
+  {
+    "categoria": "Padaria",
+    "id": 240,
+    "nome": "Mel",
+    "descricao": "Mel Baldoni Flores de Laranjeira Pet com 300g",
+    "preco": 18.9,
+    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/267756/g.jpg?v=638377068779300000"
+  }
+]

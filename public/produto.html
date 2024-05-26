@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Detalhes do Produto</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      * {
+        font-family: "M PLUS Rounded 1c", sans-serif;
+      }
+
+      ::-webkit-scrollbar {
+        width: 12px;
+        height: 12px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #f1f1f1;
+        border-radius: 10px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #666465;
+        border-radius: 10px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #ff6633;
+      }
+    </style>
+  </head>
+  <body>
+    <nav
+      class="h-10 w-full bg-[#ff6633] flex items-center justify-center text-white sticky top-0 z-20"
+    >
+      <ul class="flex gap-4">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="sobre.html">Sobre nós</a></li>
+        <li><a href="#">Atendimento</a></li>
+      </ul>
+    </nav>
+    <header
+      class="flex justify-between px-20 py-2 items-center sticky top-10 z-20 bg-white drop-shadow-lg"
+    >
+      <div class="flex gap-6 items-center">
+        <img
+          src="https://blog.atacadao.com.br/wp-content/uploads/2021/08/atacadao-logo.png"
+          class="w-32"
+        />
+      </div>
+      <div class="flex max-md:hidden">
+        <input
+          class="h-10 border-[#ff6633] border-2 px-4 rounded-l-lg border-r-0"
+          type="text"
+          id="search"
+          placeholder="Pesquisar"
+        />
+        <div>
+          <button
+            class="h-10 bg-[#ff6633] px-4 rounded-r-lg border-2 border-[#ff6633] border-l-0"
+            id="searchBtn"
+          >
+            <img src="icons/search.svg" class="w-6" />
+          </button>
+        </div>
+      </div>
+      <div class="flex gap-2 text-sm max-md:hidden">
+        <img src="icons/user.svg" class="w-8" />
+        <div class="flex flex-col">
+          <a href="#">Bem-vindo</a>
+          <a href="#">Entre ou cadastre</a>
+        </div>
+      </div>
+      <a href="carrinho.html">
+        <div class="relative">
+          <div
+            class="rounded-full w-5 h-5 bg-[#009933] absolute right-0 top-0 text-sm text-white flex items-center justify-center"
+          >
+            <span id="cart-item-count">0</span>
+          </div>
+          <img
+            src="icons/cart.svg"
+            alt="Carrinho de Compras"
+            id="cart-button"
+            class="w-10 h-10 cursor-pointer"
+          />
+        </div>
+      </a>
+    </header>
+    <main classproduct-price="px-20">
+      <section class="flex items-center justify-center mt-20 gap-20">
+        <div class="drop-shadow-lg flex flex-col gap-10">
+          <div>
+            <span class="font-bold text-lg">Categoria: </span>
+            <span id="produto-categoria"></span>
+          </div>
+
+          <img id="product-image" src="" alt="Imagem do Produto" class="w-80" />
+        </div>
+        <div class="drop-shadow-lg flex flex-col gap-3 border p-10 w-96">
+          <h1 id="product-name" class="text-3xl font-bold"></h1>
+          <span></span>
+          <p id="product-description"></p>
+          <p id="produto-preco" class="font-bold text-2xl text-gray-700"></p>
+          <button
+            id="add-to-cart"
+            class="bg-[#009933] text-white rounded-lg py-4"
+          >
+            Adicionar no carrinho
+          </button>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
+<script type="module" src="produto.js"></script>

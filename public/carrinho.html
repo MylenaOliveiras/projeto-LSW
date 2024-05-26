@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carrinho de Compras</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      * {
+        font-family: "M PLUS Rounded 1c", sans-serif;
+      }
+      ::-webkit-scrollbar {
+        width: 12px;
+        height: 12px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #f1f1f1;
+        border-radius: 10px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #666465;
+        border-radius: 10px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #ff6633;
+      }
+    </style>
+  </head>
+  <body>
+    <nav
+      class="h-10 w-full bg-[#ff6633] flex items-center justify-center text-white sticky top-0 z-20"
+    >
+      <ul class="flex gap-4">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="sobre.html">Sobre nós</a></li>
+        <li><a href="#">Atendimento</a></li>
+      </ul>
+    </nav>
+    <header
+      class="flex justify-between px-20 py-2 items-center sticky top-10 z-20 bg-white drop-shadow-lg"
+    >
+      <div class="flex gap-6 items-center">
+        <img
+          src="https://blog.atacadao.com.br/wp-content/uploads/2021/08/atacadao-logo.png"
+          class="w-32"
+        />
+      </div>
+      <div>Ambiente Seguro</div>
+    </header>
+    <main class="px-20">
+      <a class="flex my-5 items-center gap-2" href="index.html">
+        <div class="bg-[#009933] rounded-full">
+          <img src="icons/up.svg" class="-rotate-90" />
+        </div>
+        Continuar comprando
+      </a>
+
+      <section>
+        <div class="flex gap-10 justify-center">
+          <div
+            class="drop-shadow-lg bg-white rounded-lg w-[600px] mb-20 p-6 min-h-80"
+          >
+            <h1 class="font-bold text-[#ff6633] text-lg">Meu carrinho</h1>
+            <ul id="cart-items-list"></ul>
+          </div>
+          <div
+            class="bg-white drop-shadow-lg rounded-lg w-80 max-h-80 p-6 flex flex-col"
+          >
+            <h2 class="font-bold text-[#ff6633] text-lg">Resumo do pedido</h2>
+
+            <div class="flex justify-between mt-4">
+              <span>Entrega </span>
+              <span>Grátis</span>
+            </div>
+            <hr class="my-4" />
+
+            <div class="flex justify-between mt-4">
+              <span>Taxa de serviço</span>
+              <span>R$ 0,00</span>
+            </div>
+            <hr class="my-4" />
+
+            <div class="flex justify-between">
+              <span class="font-bold text-2xl text-[#009933]">Total:</span>
+              <span class="font-bold" id="subtotal"></span>
+            </div>
+            <button
+              class="bg-[#ff6633] text-white rounded-lg px-4 py-2 w-full mt-6 disabled:opacity-50 disabled:cursor-not-allowed"
+              id="checkout"
+            >
+              Finalizar compra
+            </button>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
+<script type="module" src="./carrinho.js"></script>
