@@ -1185,14 +1185,6 @@
   },
   {
     "categoria": "Limpeza",
-    "id": 175,
-    "nome": "Arroz Tio João Orgânico",
-    "descricao": "Arroz Tio João Orgânico - Tipo 1 Pacote com 1kg",
-    "preco": 12.8,
-    "imagem_url": "https://atacadaobr.vtexassets.com/arquivos/ids/286003/g.jpg?v=638467801404070000"
-  },
-  {
-    "categoria": "Limpeza",
     "id": 176,
     "nome": "Álcool Coperalcool",
     "descricao": "Álcool Coperalcool 46º INPM Frasco com 1L",
