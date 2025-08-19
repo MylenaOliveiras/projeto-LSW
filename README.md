@@ -12,7 +12,6 @@
 ✔️ Adição e remoção de itens no carrinho  
 ✔️ Página de detalhes do produto  
 ✔️ Página "Sobre Nós" com gráfico de desempenho  
-✔️ Interface responsiva e moderna  
 ✔️ Estilização com Tailwind CSS
 
 ---
