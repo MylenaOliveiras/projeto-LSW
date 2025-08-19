@@ -1,62 +1,69 @@
-# 🛒 Simulação do Site do Atacadão
+<div align="center">
+   <h1>🛒 Simulação do Site do Atacadão</h1>
+   <p>Projeto web responsivo simulando o site do <b>Atacadão</b> com <b>Node.js</b>, <b>Express</b>, <b>Tailwind CSS</b> e <b>Chart.js</b>.</p>
+   <img src="https://agos.com.br/site/wp-content/uploads/2020/04/atacadao.jpg" width="300" alt="Preview do Site do Atacadão"/>
+</div>
 
-## 📝 Descrição
+---
 
-Este projeto é uma simulação do site do Atacadão, que permite aos usuários navegar por produtos divididos por categorias, adicionar e remover itens do carrinho de compras. O projeto possui quatro telas principais: Home, Descrição do Produto, Carrinho e Sobre Nós, que inclui um gráfico de desempenho.
+## ✨ Funcionalidades
 
-## 📚 Índice
+✔️ Navegação por produtos e categorias  
+✔️ Adição e remoção de itens no carrinho  
+✔️ Página de detalhes do produto  
+✔️ Página "Sobre Nós" com gráfico de desempenho  
+✔️ Interface responsiva e moderna  
+✔️ Estilização com Tailwind CSS
 
-1. [Instalação](#instalação)
-2. [Uso](#uso)
-3. [Autores e Agradecimentos](#autores-e-agradecimentos)
-4. [Histórico de Versões](#histórico-de-versões)
-5. [Referências e Links](#referências-e-links)
+---
 
-## Instalação
+## 🚀 Como rodar o projeto
 
-### Pré-requisitos
+1. Instale as dependências:
+    ```bash
+    npm install
+    ```
 
-- Node.js
+2. Gere o CSS otimizado do Tailwind:
+    ```bash
+    npx tailwindcss -i ./public/input.css -o ./public/output.css --minify
+    ```
 
-### Passo a passo
+3. Inicie o servidor local:
+    ```bash
+    npm start
+    ```
 
-1. Clone o repositório:
-   git clone https://github.com/MylenaOliveiras/projeto-LSW
+4. Acesse em [http://localhost:8080](http://localhost:8080)
 
-2. Navegue até o diretório do projeto:
-   cd projeto-final-lsw
+---
 
-3. Instale as dependências:
-   npm install
+## 🗂️ Estrutura principal
 
-4. Inicie o servidor:
-   npm start
+- `public/index.html` — Página inicial com produtos
+- `public/produto.html` — Página de detalhes do produto
+- `public/carrinho.html` — Carrinho de compras
+- `public/sobre.html` — Sobre nós e gráfico
+- `index.js` — Servidor Express principal
 
-### 🚀 Uso
+---
 
-Telas Principais
+## 🛠️ Tecnologias
 
-- Home: Página inicial com produtos divididos por categorias.
-- Descrição do Produto: Detalhes sobre o produto selecionado.
-- Carrinho: Visualização e gerenciamento dos itens no carrinho de compras.
-- Sobre Nós: Informações sobre a empresa e um gráfico de desempenho utilizando Chart.js.
+<div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" alt="Express"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" alt="Tailwind CSS"/>
+   <img src="https://www.chartjs.org/media/logo-title.svg" width="30" alt="Chart.js"/>
+</div>
 
-### 👥 Autores e Agradecimentos
+- [Node.js](https://nodejs.org/en)
+- [Express](https://expressjs.com/pt-br/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Chart.js](https://www.chartjs.org/docs/latest/)
 
-- Mylena
-- Frank
-- Isabela
+---
 
-Agradecimento especial ao Professor Paulo da matéria de Linguagens de Script para Web que é um ótimo professor e ser humano.
-
-### 🗂️ Histórico de Versões
-
-- 1.0.0
-  - Primeira versão estável.
-
-### 🔗 Referências e Links
-
-- https://nodejs.org/en
-- https://expressjs.com/pt-br/
-- https://www.chartjs.org/docs/latest/
-- https://tailwindcss.com/
+<div align="center">
+   <b>Feito por Mylena Oliveira</b>
+</div>
