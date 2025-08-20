@@ -1,6 +1,6 @@
 <div align="center">
    <h1>🛒 Simulação do Site do Atacadão</h1>
-   <p>Projeto web responsivo simulando o site do <b>Atacadão</b> com <b>Node.js</b>, <b>Express</b>, <b>Tailwind CSS</b> e <b>Chart.js</b>.</p>
+   <p>Projeto web simulando o site do <b>Atacadão</b> com <b>Node.js</b>, <b>Express</b>, <b>Tailwind CSS</b> e <b>Chart.js</b>.</p>
    <img src="https://agos.com.br/site/wp-content/uploads/2020/04/atacadao.jpg" width="300" alt="Preview do Site do Atacadão"/>
 </div>
 
